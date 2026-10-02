@@ -1,0 +1,36 @@
+<Solution>
+  <Project Path="AbstractApp/AbstractApp.csproj" Id="249e4baf-b905-4cdd-ba9b-bee56707786d" />
+  <Project Path="AccountApp/AccountApp.csproj" Id="632b58a3-de5b-46b1-8141-f9918a23e745" />
+  <Project Path="ArraysApp/ArraysApp.csproj" />
+  <Project Path="CitiesForApp/CitiesForApp.csproj" />
+  <Project Path="CollectionsApp/CollectionsApp.csproj" Id="1c98f1a1-866a-46c3-a3f5-11628de49752" />
+  <Project Path="DataTypes/DataTypes.csproj" />
+  <Project Path="DoWhileApp/DoWhileApp.csproj" Id="76bdeafc-68d4-4360-b30b-d09065ad98d4" />
+  <Project Path="ExtractCapitals/ExtractCapitals.csproj" />
+  <Project Path="FibonacciIterative/FibonacciIterative.csproj" />
+  <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="3b13f39a-67ae-4b6a-8dd2-b89459aade9c" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="IfUseCases/IfUseCases.csproj" Id="e6a16e54-bf2b-4dae-ab97-140b52767ec4" />
+  <Project Path="InterfacesApp/InterfacesApp.csproj" Id="8ac94266-efe4-4483-903a-49032b06bc03" />
+  <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="LinqApp/LinqApp.csproj" Id="5b4a60fd-5bf4-49c3-87ff-0de931e9ad75" />
+  <Project Path="LinqArrays/LinqArrays.csproj" />
+  <Project Path="NullableStringApp/NullableStringApp.csproj" />
+  <Project Path="NumberRead/NumberRead.csproj" />
+  <Project Path="OOApp/OOApp.csproj" Id="157a10fc-9a55-4193-8835-898be966a470" />
+  <Project Path="OperatorOverloading/OperatorOverloading.csproj" Id="28801fce-b4e9-411c-9db1-f374974c22f8" />
+  <Project Path="PointApp/PointApp.csproj" Id="588d030b-166a-4e06-b6e5-9d8223329ae0" />
+  <Project Path="PositivesCount/PositivesCount.csproj" Id="640d5f10-10cd-4280-b38b-a78baf81a066" />
+  <Project Path="PowerApp/PowerApp.csproj" />
+  <Project Path="PrintingApp/PrintingApp.csproj" />
+  <Project Path="ProductsVat/ProductsVat.csproj" />
+  <Project Path="ProductWhileApp/ProductWhileApp.csproj" Id="07734b89-ac1d-405f-9dbd-5a3be4428759" />
+  <Project Path="PyramidChallenge/PyramidChallenge.csproj" />
+  <Project Path="RegExApp/RegExApp.csproj" />
+  <Project Path="StringsApp/StringsApp.csproj" />
+  <Project Path="SwapApp/SwapApp.csproj" />
+  <Project Path="SwitchApp/SwitchApp.csproj" Id="83d3d273-66f9-48a7-92f4-74c0890f3944" />
+  <Project Path="TravelingApp/TravelingApp.csproj" Id="e937d406-33b9-4aab-bfa0-292100acb455" />
+  <Project Path="UtilityClassesApp/UtilityClassesApp.csproj" Id="8ed3f3a6-a989-4b90-a2ee-0c4fcc02b69c" />
+  <Project Path="WhileApp/WhileApp.csproj" Id="c2db2d25-5b30-4988-a2bf-96fbd91b41ad" />
+</Solution>
