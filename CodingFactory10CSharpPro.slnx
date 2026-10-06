@@ -8,6 +8,7 @@
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="76bdeafc-68d4-4360-b30b-d09065ad98d4" />
   <Project Path="ExtractCapitals/ExtractCapitals.csproj" />
   <Project Path="FibonacciIterative/FibonacciIterative.csproj" />
+  <Project Path="FileManagementApp/FileManagementApp.csproj" Id="0f4cdc50-23bc-41f7-b726-4c0bd7e05e9c" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="3b13f39a-67ae-4b6a-8dd2-b89459aade9c" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfUseCases/IfUseCases.csproj" Id="e6a16e54-bf2b-4dae-ab97-140b52767ec4" />
@@ -27,6 +28,8 @@
   <Project Path="ProductWhileApp/ProductWhileApp.csproj" Id="07734b89-ac1d-405f-9dbd-5a3be4428759" />
   <Project Path="PyramidChallenge/PyramidChallenge.csproj" />
   <Project Path="RegExApp/RegExApp.csproj" />
+  <Project Path="StackApp/StackApp.csproj" Id="4d129465-0e8b-48ea-aad5-465d5370ca6e" />
+  <Project Path="StreamReadWrite/StreamReadWrite.csproj" Id="2ebaa78e-b52f-4f34-b6e4-1e5ae9796c5c" />
   <Project Path="StringsApp/StringsApp.csproj" />
   <Project Path="SwapApp/SwapApp.csproj" />
   <Project Path="SwitchApp/SwitchApp.csproj" Id="83d3d273-66f9-48a7-92f4-74c0890f3944" />
