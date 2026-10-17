@@ -2,6 +2,7 @@
   <Project Path="AbstractApp/AbstractApp.csproj" Id="249e4baf-b905-4cdd-ba9b-bee56707786d" />
   <Project Path="AccountApp/AccountApp.csproj" Id="632b58a3-de5b-46b1-8141-f9918a23e745" />
   <Project Path="ArraysApp/ArraysApp.csproj" />
+  <Project Path="BillCalcApp/BillCalcApp.csproj" Id="433201c2-62b4-43d4-bd10-6e2bd9775f7a" />
   <Project Path="CitiesForApp/CitiesForApp.csproj" />
   <Project Path="CollectionsApp/CollectionsApp.csproj" Id="1c98f1a1-866a-46c3-a3f5-11628de49752" />
   <Project Path="DataTypes/DataTypes.csproj" />
@@ -28,6 +29,8 @@
   <Project Path="ProductWhileApp/ProductWhileApp.csproj" Id="07734b89-ac1d-405f-9dbd-5a3be4428759" />
   <Project Path="PyramidChallenge/PyramidChallenge.csproj" />
   <Project Path="RegExApp/RegExApp.csproj" />
+  <Project Path="RenterCarApp/RenterCarApp.csproj" Id="008adb85-7e6e-4d3c-a9a8-e66c0b924501" />
+  <Project Path="SalaryCalcApp/SalaryCalcApp.csproj" Id="4ac246e8-89aa-44dc-aaa4-7f3990767eb6" />
   <Project Path="StackApp/StackApp.csproj" Id="4d129465-0e8b-48ea-aad5-465d5370ca6e" />
   <Project Path="StreamReadWrite/StreamReadWrite.csproj" Id="2ebaa78e-b52f-4f34-b6e4-1e5ae9796c5c" />
   <Project Path="StringsApp/StringsApp.csproj" />
